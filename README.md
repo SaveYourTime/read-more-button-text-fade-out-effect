@@ -1,6 +1,6 @@
 # read-more-button-text-fade-out-effect
 
-![Imgur](https://i.imgur.com/jIEQASw.gifv)
+![Imgur](https://i.imgur.com/jIEQASw.gif)
 
 ## Demo
 
